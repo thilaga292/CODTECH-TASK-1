@@ -26,24 +26,29 @@
 The objective of this project is to create a user-friendly TODO List web application which helps to prioritize and manage tasks effectively.
 The aim is to increase the productivity and helps the users to organise their work.
 
-### Key Activities/Scope
+### Goals/Scope
 
 - Identify tasks.
-- Prioritising tasks in an orderly manner and improve workflow
-- Routine Maintenance
+- Prioritising tasks in an orderly manner and improve workflow.
+- Routine Maintenance.
 - Improve time management.
 
-### Techniques used
+### Technology used
+
+*Frontend*
 
 - HTML - This is a fundamental technology used to design the structure and layout of the web page. It organize, format, and display a web page’s content along with CSS and Javascript
 - CSS - CSS is used to style existing HTML elements by adding designs and responsiveness to web pages. It controls various aspects of a website’s appearance, including text style, size, positioning, color, and more.
+
+*Backend*
+
 - JavaScript - JavaScript is a single-threaded, synchronous programming and scripting language widely used in web development. It is used to add interactive behavior to web pages and enables dynamic interactivity on websites when it is applied to an HTML document.
 - JSON - JSON is a data format that is independent of any programming language, although it is derived from JavaScript.It serves as a lightweight way to store and transport data.
 
 ### Approach
 - Use HTML to give structure to your project.
-- Use CSS for Styling purposes
-- JavaScript will be used to provide the required functionality
+- Use CSS for Styling purposes.
+- JavaScript will be used to provide the required functionality. Such as,
   
                 - Sets up event listeners for submission and item clicks.
   
