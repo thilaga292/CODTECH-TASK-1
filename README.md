@@ -33,6 +33,11 @@ The aim is to increase the productivity and helps the users to organise their wo
 - Routine Maintenance.
 - Improve time management.
 
+### Requirements
+
+- Operating System: Windows 7, 8, 9, 10 .
+- Language: Html , Css , Javascript.
+
 ### Technology used
 
 *Frontend*
