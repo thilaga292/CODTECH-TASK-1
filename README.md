@@ -13,6 +13,8 @@ Mentor: SRAVANI GOUNI
 OVERVIEW OF THE PROJECT:
 
 Project: TODO LIST
+![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/c358d851-4bbe-4dc8-a40b-2bf03ed758dc)
+
 
 Objective
 
