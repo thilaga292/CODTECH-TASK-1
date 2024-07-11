@@ -1,25 +1,10 @@
-**Name**: THILAGAVATHY G
+**THILAGAVATHY G**
+**Bharath Institute of Higher Education and Research**
 
-**Company**: CODTECH IT SOLUTIONS
-
-**ID**: CT04WD2251
-
-**Domain**: Web Development
-
-**Duration**: June to July 15
-
-**Mentor**: SRAVANI GOUNI
 
 ## OVERVIEW OF THE PROJECT:
 
-### Project: TODO LIST 
-
-![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/c358d851-4bbe-4dc8-a40b-2bf03ed758dc) 
-
-![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/2a035674-806f-4d46-961e-dafe73482ff4)
-
-![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/e33a84fa-7633-4f88-bbfa-48e335d053c4)
-
+### Project: *TODO LIST* 
 
 ### Objective
 
@@ -72,6 +57,15 @@ The aim is to increase the productivity and helps the users to organise their wo
 ### Conclusion
 To sum up, a compilation of to-do list is a peculiar, very creative and at the same time a serious process. It will help the users to accomplish the things they chose to do. This kind of prioritization method can be flexible for sure. It is definitely worth spending time on it and making your personal work more logical and consistent.
 
+
+
+### Output
+
+![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/c358d851-4bbe-4dc8-a40b-2bf03ed758dc) 
+
+![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/2a035674-806f-4d46-961e-dafe73482ff4)
+
+![image](https://github.com/thilaga292/CODTECH-TASK-1/assets/174592254/e33a84fa-7633-4f88-bbfa-48e335d053c4)
 
 
 
