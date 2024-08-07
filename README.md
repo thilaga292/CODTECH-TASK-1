@@ -2,6 +2,8 @@
 
 **Bharath Institute of Higher Education and Research**
 
+**CodTech IT solutions Internship**
+
 
 ## OVERVIEW OF THE PROJECT:
 
@@ -22,19 +24,15 @@ The aim is to increase the productivity and helps the users to organise their wo
 ### Requirements
 
 - Operating System: Windows 7, 8, 9, 10 .
-- Language: Html , Css , Javascript.
+- Language: Html , Css , Javascript, Bootstrap.
 
 ### Technologies used
 
-*Frontend*
-
 - HTML - This is a fundamental technology used to design the structure and layout of the web page. It organize, format, and display a web page’s content along with CSS and Javascript
 - CSS - CSS is used to style existing HTML elements by adding designs and responsiveness to web pages. It controls various aspects of a website’s appearance, including text style, size, positioning, color, and more.
-
-*Backend*
-
 - JavaScript - JavaScript is a single-threaded, synchronous programming and scripting language widely used in web development. It is used to add interactive behavior to web pages and enables dynamic interactivity on websites when it is applied to an HTML document.
 - JSON - JSON is a data format that is independent of any programming language, although it is derived from JavaScript.It serves as a lightweight way to store and transport data.
+- Bootstrap - It is an open-source framework for building responsive, mobile-first web applications. It provides a collection of CSS and JavaScript components that help developers create modern and consistent web designs quickly and efficiently.
 
 ### Approach
 - Use HTML to give structure to your project.
