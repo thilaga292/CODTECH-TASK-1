@@ -2,7 +2,7 @@
 
 **Bharath Institute of Higher Education and Research**
 
-**CodTech IT solutions Internship**
+**CodTech IT solutions Internship Project**
 
 
 ## OVERVIEW OF THE PROJECT:
